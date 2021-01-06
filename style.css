@@ -101,11 +101,16 @@ section{
     color: tomato;
     text-align: center;
     border:2px 
-
 }
 .color-green{
     color: green;
 }
+.reviews{
+    width:100%;
+    float: left;
+    text-align: center;
+}
 footer p{
     text-align: center;
+    font-size: 15px;
 }
