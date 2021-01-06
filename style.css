@@ -1,0 +1,110 @@
+body{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+h1{
+    font-size: 30px;
+    line-height:25px;
+    
+}
+h2{
+    font-size: 20px;
+    line-height: 10px;
+    
+}
+.orange-hightlight{
+    color: rgb(251, 251, 251);
+}
+.link-button{
+    text-decoration: none;
+    padding-left: 50px;
+    background-image: linear-gradient(lightsalmon,tomato);
+}
+.text-deco{
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b{
+    font-family: sans-serif;
+    font-size: 10px;
+   
+}
+.top-bg{
+    background-color: lightcoral;
+}
+section{
+    height: 400px;
+   
+}
+.hero{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.hero img{
+    width: 100%;
+}
+.link-button{
+      background-image: linear-gradient(rgba(94, 49, 241, 0.692), rgba(255, 99, 71, 0.719));
+      text-decoration: none;
+      padding: 5px 10px;
+      border-radius: 10px;
+      color: white;
+     
+}
+.special-feature{
+    text-align: center;
+}
+.orange{
+    color: tomato;
+}
+.feature{
+    float: left;
+    padding-left:10%;
+    background-image:url(img/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x:-250px;
+    
+}
+.feature img{
+    width:30%;
+}
+.half-width{
+    width: 20%;
+    float: left;
+    padding-left:20px;
+    margin-left: 10px;
+    padding-top: 2%;
+}
+.text-shadow{
+    box-shadow: 5px 5px 30px rgba(128, 128, 128, 0.678);
+    border-radius: 5px;
+    height: 50%;
+}
+.image-size{
+    width:300px;
+    height: 100%;
+    margin-left:20%;
+    padding-left:10px;
+}
+.gallery img{
+    width: 100%;
+    box-shadow: teal;
+}
+.gallery-text{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: tomato;
+    text-align: center;
+    border:2px 
+
+}
+.color-green{
+    color: green;
+}
+footer{
+    text-align: center;
+}
